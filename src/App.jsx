@@ -8,7 +8,7 @@ import {Hero1} from './components/Hero1'
 function App() {
  
   return (
-    <div>
+    <div> 
       <Hero1 />
     <Hero />
      <Button variant="outline"   >

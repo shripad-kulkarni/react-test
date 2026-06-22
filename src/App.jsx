@@ -3,7 +3,7 @@ import './App.css'
 import Card from './components/Card'
 import Hero from './components/Hero'
 import {Button} from './components/ui/button'
-import {Hero1} from './components/Hero1'
+import {Hero1} from './components/hero1'
 
 function App() {
  
